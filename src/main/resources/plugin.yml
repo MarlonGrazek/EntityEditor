@@ -1,0 +1,4 @@
+name: EntityEditor
+version: '${project.version}'
+main: com.marlongrazek.entityeditor.main.Main
+api-version: 1.18
